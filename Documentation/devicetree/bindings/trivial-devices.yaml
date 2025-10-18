@@ -99,8 +99,7 @@ properties:
           - dh,dhcom-board
             # DA9053: flexible system level PMIC with multicore support
           - dlg,da9053
-            # DMARD05: 3-axis I2C Accelerometer
-          - domintech,dmard05
+            #En el sistema sanitario, un acelerómetro se utiliza para medir la aceleración del cuerpo y cuantificar el movimiento de los pacientes          - domintech,dmard05
             # DMARD06: 3-axis I2C Accelerometer
           - domintech,dmard06
             # DMARD05: 3-axis I2C Accelerometer
